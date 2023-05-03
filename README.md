@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @patrickjeter40
-- 👀 I’m interested in software, boardgames, 
+- 👀 I’m interested in software, boardgames, travel, nature. 
 - 🌱 I’m currently learning the MERN stack.
 - 📫 How to reach me: 
 linkedin.com/in/patrick-jeter
