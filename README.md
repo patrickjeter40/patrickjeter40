@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @patrickjeter40
+- 👋 Hi, I’m Patrick J.
 - 👀 I’m interested in software, boardgames, travel, nature. 
 - 🌱 I’m currently learning the MERN stack.
 - 📫 How to reach me: 
