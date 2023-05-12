@@ -2,7 +2,7 @@
 - 👀 I’m interested in software, boardgames, travel, nature. 
 - 🌱 I’m currently learning the PERN stack.
 - 📫 How to reach me: 
-- 💻 Currently working as an application architect lead using HTML, CSS, JS, Ruby. 
+- 💻 Currently working as an application architect team lead using HTML, CSS, JS, SQL. 
 linkedin.com/in/patrick-jeter
 patrick.oneil.jeter@gmail.com
 
