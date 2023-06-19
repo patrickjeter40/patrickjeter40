@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Patrick J.
 - 👀 I’m interested in software, boardgames, travel, nature. 
-- 🌱 I’m currently learning the PERN stack.
+- 🌱 I’m currently using the PERN stack.
 - 📫 How to reach me: linkedin.com/in/patrick-jeter or patrick.oneil.jeter@gmail.com
 - 💻 Currently working as an application architect team lead. 
 
