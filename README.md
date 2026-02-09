@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Patrick J.
-- 🌱 I’m currently building Android apps using Flutter/Dart/Firebase.
+- 🌱 I’m currently building an API a3api.io. Delivering stateless, serverless endpoints purpose-built for privacy-sensitive workloads.
 - 📫 How to reach me: linkedin.com/in/patrick-jeter or patrick.oneil.jeter@gmail.com
-- 💻 Currently working as an application architect team lead. 
+- 💻 Currently working as an application software engineer in the health tech space.  
 
 
 
