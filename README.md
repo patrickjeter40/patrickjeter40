@@ -10,19 +10,19 @@ I turn complex operational requirements into clear interfaces, reliable APIs, an
 
 A full-stack patient management application with searchable patient records, clinical notes, validated forms, and deterministic patient summaries. Built with fictional data and a Docker Compose setup for local evaluation.
 
-**React Â· TypeScript Â· FastAPI Â· PostgreSQL Â· Docker Compose**
+**React | TypeScript | FastAPI | PostgreSQL | Docker Compose**
 
-[Explore the repository â†’](https://github.com/patrickjeter40/healthcare-dashboard#readme)
+[Explore the repository](https://github.com/patrickjeter40/healthcare-dashboard#readme)
 
 ### [Pathsmith](https://github.com/patrickjeter40/pathsmith)
 
 A local-first tool for building and evaluating probabilistic decision workflows. The current foundation includes a portable TypeScript runtime, deterministic mock execution, execution traces, regression comparisons, and a browser graph preview with JSON validation.
 
-**TypeScript Â· React Â· NestJS Â· React Flow Â· pnpm workspaces**
+**TypeScript | React | NestJS | React Flow | pnpm workspaces**
 
 In active development: visual workflow editing, persistence, and live-provider integration are planned milestones.
 
-[Explore the repository â†’](https://github.com/patrickjeter40/pathsmith#readme)
+[Explore the repository](https://github.com/patrickjeter40/pathsmith#readme)
 
 ## How I work
 
@@ -32,4 +32,4 @@ In active development: visual workflow editing, persistence, and live-provider i
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/patrick-jeter/) Â· [Email](mailto:patrick.oneil.jeter@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/patrick-jeter/) | [Email](mailto:patrick.oneil.jeter@gmail.com)
