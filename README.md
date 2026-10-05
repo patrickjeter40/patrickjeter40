@@ -16,11 +16,11 @@ A full-stack patient management application with searchable patient records, cli
 
 ### [Pathsmith](https://github.com/patrickjeter40/pathsmith)
 
-A local-first application for building, evaluating, and improving LLM-powered decision workflows. It combines visual workflow editing and canonical JSON with Forge AI assistance for generating examples, suggesting provisional labels, and reviewing saved run results.
+A tool for creating, testing, and improving typed classification AI. Forge AI uses LLMs to assist developers with generating test examples, suggesting provisional reference labels, and reviewing evaluation results to propose configuration improvements.
 
 **TypeScript | React | NestJS | React Flow | pnpm workspaces**
 
-Supports live evaluation, persistent run history, immutable snapshots, measured classification reports, and offline mock/replay execution. Review and explicitly apply Forge AI's suggested configuration changes, then rerun the same cases to measure their effect. A portable TypeScript runtime executes workflows outside the app.
+Define classification questions and allowed outputs, evaluate predictions against labeled examples, and review suggested changes before explicitly applying them. Includes visual editing, saved evaluation history, offline mock/replay testing, and a portable TypeScript runtime.
 
 [Explore the repository](https://github.com/patrickjeter40/pathsmith#readme)
 
