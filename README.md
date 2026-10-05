@@ -16,11 +16,11 @@ A full-stack patient management application with searchable patient records, cli
 
 ### [Pathsmith](https://github.com/patrickjeter40/pathsmith)
 
-A local-first tool for building and evaluating probabilistic decision workflows. The current foundation includes a portable TypeScript runtime, deterministic mock execution, execution traces, regression comparisons, and a browser graph preview with JSON validation.
+A local-first application for building, evaluating, and improving LLM-powered decision workflows. It combines visual workflow editing and canonical JSON with Forge AI assistance for generating examples, suggesting provisional labels, and reviewing saved run results.
 
 **TypeScript | React | NestJS | React Flow | pnpm workspaces**
 
-In active development: visual workflow editing, persistence, and live-provider integration are planned milestones.
+Supports live evaluation, persistent run history, immutable snapshots, measured classification reports, and offline mock/replay execution. Review and explicitly apply Forge AI's suggested configuration changes, then rerun the same cases to measure their effect. A portable TypeScript runtime executes workflows outside the app.
 
 [Explore the repository](https://github.com/patrickjeter40/pathsmith#readme)
 
